@@ -5,3 +5,7 @@ h5py
 numpy
 pandas
 pyfast
+networkx
+matplotlib
+h5py
+opencv-python

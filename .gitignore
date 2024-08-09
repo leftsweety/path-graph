@@ -3,6 +3,7 @@
 *.pkl
 *.jpg
 *.pt
+*.pth
 get_date/20240719
 
 patch_embeddings/5XTiles
